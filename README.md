@@ -2,8 +2,8 @@
 # Todo List API in Python Flask
 <!--endhide-->
 
-*
-*
+Desde mi gitpod funciona, dejo aquí un snapshot
+https://gitpod.io#snapshot/2c190292-799d-4528-b15b-c14701c55d07
 *
 *
 *
