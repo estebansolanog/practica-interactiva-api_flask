@@ -1,7 +1,19 @@
 <!--hide-->
 # Todo List API in Python Flask
 <!--endhide-->
-
+*
+*
+*
+*
+*
+*
+NOTA: Debido a que tengo que cambiar el código para que el test funcióne, test anteriores puede que no pasen. No estoy muy seguro de como resolver eso sin tener que cambiar todo el código.
+*
+*
+*
+*
+*
+*
 <a href="https://www.breatheco.de"><img height="280" align="right" src="https://raw.githubusercontent.com/breatheco-de/python-flask-api-tutorial/3ffb90ea974146f57a3bdfd59665b4c4d5d05197/.breathecode/assets/badge.svg"></a>
 
 This is an interactive tutorial that will teach you how to create an API using the Python Flask framework using Python and Pipenv.
